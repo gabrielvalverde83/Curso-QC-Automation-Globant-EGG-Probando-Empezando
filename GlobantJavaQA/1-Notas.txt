@@ -1,0 +1,19 @@
+Terminar/Revisar/Pendientes:
+
+05-JUnit - Revisar desde el Ejerc03 en adelante
+05-JUnit - Estaria bueno hacer el: extra extra
+06-Colecciones - extras - Falta terminar el del hotel: Desafio Colecciones
+07-Relaciones - Falta terminar: extra03
+07-Relaciones - Estaria bueno hacer: Extra04
+
+/*********************************************************************************/
+
+ejercicios con varias cosas aplicadas y hechos con amor
+
+* 04-JavaPOO - EjercicioExtra06
+
+* 04-JavaPOO ---- Otros --- Arrays 
+
+* 06-Colecciones ---- Otros --- Los 2 ejercicios
+
+* 06-Colecciones ---- extra 2, extra3, extra4

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="starter.acceptancetests.WhenSearchingForTerms" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-01-18T23:53:50" hostname="GABRIELITO" time="10.064">
+  <properties/>
+  <testcase name="Should be able to search for green things" classname="starter.acceptancetests.WhenSearchingForTerms" time="5.453"/>
+  <testcase name="Should be able to search for red things" classname="starter.acceptancetests.WhenSearchingForTerms" time="4.486"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ene 18, 2024 8:53:52 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 120
+ene 18, 2024 8:53:57 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 120
+]]></system-err>
+</testsuite>
